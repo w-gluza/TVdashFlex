@@ -1,7 +1,7 @@
-let box = document.querySelector('#box');
-let demo = document.querySelector('#demo');
-let icon = document.querySelector('#path-modified');
-let paragraph = document.querySelectorAll('.transition');
+var box = document.querySelector('#box');
+var demo = document.querySelector('#demo');
+var icon = document.querySelector('#path-modified');
+var paragraph = document.querySelectorAll('.transition');
 
 function runAnimation() {
   box.classList.add('colorTransition');
