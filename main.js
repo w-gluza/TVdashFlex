@@ -7,18 +7,18 @@ function runAnimation() {
   box.classList.add('colorTransition');
   demo.classList.add('pargraph-active');
   icon.classList.add('path-modified');
-  paragraph.forEach(function(p) {
-    p.classList.add('paragraph-active');
-  });
+  for (var i = 0; i < paragraph.length; i++) {
+    paragraph[i].classList.add('paragraph-active');
+  }
 }
 
 function initialState() {
   box.classList.remove('colorTransition');
   demo.classList.remove('pargraph-active');
   icon.classList.remove('path-modified');
-  paragraph.forEach(function(p) {
-    p.classList.remove('paragraph-active');
-  });
+  for (var i = 0; i < paragraph.length; i++) {
+    paragraph[i].classList.remove('paragraph-active');
+  }
 }
 
 function theLoop(i) {
