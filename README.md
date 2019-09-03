@@ -2,7 +2,7 @@
 
 The idea of a project was to recreate PSD file in the most accurate way. Dashboard is intended to work only on one specific type of device - LG TV with a WebOS and 1920 x 1080 resolution.
 
-You can check mockup [here]: (https://raw.githubusercontent.com/w-gluza/TVdashFlex/master/dashboard_design.jpg)
+You can check mockup [here](https://raw.githubusercontent.com/w-gluza/TVdashFlex/master/dashboard_design.jpg)
 
 ## Important Information
 
