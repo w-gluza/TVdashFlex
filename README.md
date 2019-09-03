@@ -1,6 +1,8 @@
 # TV Dashboard (1920px x 1080px)
 
-The idea of a project was to recreate PSD file in the most accurate way. Dashboard is intended to work only on one specific type of device. Please note that this is not a mobile friendly project and it will display correclty only in 1920 x 1080 resolution.
+The idea of a project was to recreate PSD file in the most accurate way. Dashboard is intended to work only on one specific type of device - LG TV with a WebOS and 1920 x 1080 resolution.
+
+You can check mockup [here]: (https://www.kontrastcph.dk/)
 
 ## Important Information
 
